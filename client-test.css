@@ -1,0 +1,15 @@
+/* Стилі для списку питань */
+.question-list {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  /* Стилі для питання */
+  .question {
+    margin-bottom: 10px;
+  }
+
+  /* Стилі для кнопки перевірки */
+  #check-button {
+    display: none; /* Кнопка спочатку буде прихована */
+  }
